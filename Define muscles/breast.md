@@ -1,3 +1,4 @@
+# Breast Training
 This is a 60 minutes breast training course that aims to strengthen and tone the chest muscles. The course consists of four exercises: push-ups, chest presses, chest flies, and cable crossovers. Each exercise has a different number of repetitions and sets, depending on the difficulty level and the desired intensity. Here is the breakdown of the course:
 
 - Push-ups: This is a basic exercise that works the chest, shoulders, and triceps. To perform a push-up, place your hands on the floor slightly wider than your shoulders, and keep your body in a straight line from head to toe. Lower your chest to the floor, then push yourself back up. Repeat for 15 to 20 repetitions, and do 3 sets with a 60-second rest between each set.
