@@ -1,3 +1,4 @@
+#Biceps Traning 
 This is a 60 minutes biceps training course that will help you build strength and size in your arms. You will need a pair of dumbbells, a barbell, and a preacher bench for this course. Here are the exercises, repetitions, and sets you will do:
 
 1. Dumbbell curl: This exercise targets the biceps brachii, the main muscle of the upper arm. Hold a dumbbell in each hand, with your palms facing up and your arms hanging by your sides. Curl the dumbbells up to your shoulders, keeping your elbows close to your body. Squeeze your biceps at the top, then lower the dumbbells back to the starting position. Repeat for 12 repetitions, then rest for 90 seconds. Do 3 sets of this exercise.
