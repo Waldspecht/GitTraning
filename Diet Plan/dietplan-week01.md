@@ -21,7 +21,7 @@ This is a sample sports and diet plan for one week to help you lose fat and impr
 ## Wednesday
 - Breakfast: smoothie with milk, spinach, banana, and protein powder
 - Snack: cheese and crackers
-- Lunch: beef stir-fry with broccoli, carrots, and soy sauce over brown rice
+- Lunch: beef stir-fry with carrots, and soy sauce over brown rice
 - Snack: trail mix with nuts, dried fruits, and chocolate chips
 - Dinner: chicken and vegetable curry with naan bread
 - Exercise: 30 minutes of yoga or pilates
