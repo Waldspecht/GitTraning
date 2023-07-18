@@ -1,4 +1,4 @@
-﻿# Sports and Diet Plan for One Week to Lose Fat
+﻿# Sports and Diet Plan for One Week to Lose much Fat
 
 This is a sample sports and diet plan for one week to help you lose fat and improve your health. It is based on the principles of balanced nutrition, calorie deficit, and regular exercise. You can adjust it according to your preferences, goals, and schedule.
 
